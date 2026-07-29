@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "id": "welcome",
+      "date": "2026-01-01",
+      "title": "Welcome to SleepPilot",
+      "summary": "How the gradual schedule shift works, and what to expect in your first week.",
+      "bodyPath": "welcome.md"
+    }
+  ]
+}
